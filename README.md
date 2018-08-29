@@ -1,6 +1,6 @@
 # View the live webapp!
 
-[https://ucsb-cs56-musicplayer.herokoapp.com/](https://ucsb-cs56-musicplayer.herokuapp.com/)
+[https://ucsb-cs56-musicplayer.herokuapp.com/](https://ucsb-cs56-musicplayer.herokuapp.com/)
 
 # sparkjava-01
 
